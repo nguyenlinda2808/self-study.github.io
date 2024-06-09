@@ -1,0 +1,24 @@
+@media only screen  and (max-width:1200px){
+  html{
+    font-size: 10px;
+  }
+  .heading-main-box{
+    transform: translate(-60%,-80%);
+  }
+}
+ 
+
+@media only screen and (max-width:1023px){
+     
+}
+ 
+
+@media only screen and (max-width: 767px){
+  
+}
+ 
+
+@media only screen and (max-width: 480px){
+   
+ 
+}
